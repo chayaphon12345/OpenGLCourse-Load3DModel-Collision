@@ -1,9 +1,11 @@
 # OpenGLCourse-Load3DModel-Collision
 This is Dive Bomber Plane Simulator Game, built for learning OpenGL
 
-Objective of the game is to use your dive bomber(SBD-5 Dauntless) for bombing the japanese aircraft carrier(IJN Akagi)
+Objective of the game:
 
-How to control
+use your dive bomber(SBD-5 Dauntless) for bombing the japanese aircraft carrier(IJN Akagi)
+
+How to control:
 
 - WASD to control the plane
 - F to increase speed
