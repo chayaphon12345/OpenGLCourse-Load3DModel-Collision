@@ -12,8 +12,8 @@ How to control:
 - G to decrease speed
 - Space to drop a bomb
 - R to reload a bomb
-- 1 to first person view camera
-- 2 to third person view camera
+- 1 for first person view camera
+- 2 for third person view camera
 - Mouse to control camera direction
   
 https://github.com/user-attachments/assets/794d3233-3d27-478a-b9ba-e2f00e5875e9
